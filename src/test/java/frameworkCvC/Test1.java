@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
  * @author pc
  * This is to test the Git practice
  */
-public class Test123Test {
+public class Test {
 	/*
 	 *This method is to execute Git test method
 	 */
